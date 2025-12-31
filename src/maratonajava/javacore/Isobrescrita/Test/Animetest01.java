@@ -1,0 +1,10 @@
+package maratonajava.javacore.Isobrescrita.Test;
+
+import maratonajava.javacore.Isobrescrita.Domain.Anime;
+
+public class Animetest01 {
+    public static void main(String[] args) {
+        Anime anime = new Anime("One Piece");
+        System.out.println(anime);
+    }
+}
