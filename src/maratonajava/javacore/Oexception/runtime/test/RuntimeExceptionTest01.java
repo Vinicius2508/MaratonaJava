@@ -1,6 +1,6 @@
 package maratonajava.javacore.Oexception.runtime.test;
 
-public class RuntimeExceptionTEst01 {
+public class RuntimeExceptionTest01 {
     static void main() {
         // Checked e Unchecked
         int[] nums = {0, 1};
