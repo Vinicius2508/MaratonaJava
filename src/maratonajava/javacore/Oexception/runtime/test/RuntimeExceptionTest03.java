@@ -18,6 +18,7 @@ public class RuntimeExceptionTest03 {
         return null;
     }
     private static void abreConexao2(){
+        // Quase nunca usado
         try{
             System.out.println("Abrindo Arquivo");
             System.out.println("Escrevendo dados no arquivo");
